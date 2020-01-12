@@ -21,6 +21,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 /**karry**/
+
 public class ExtentReportNG implements IReporter {
 	private ExtentReports extent;
 
